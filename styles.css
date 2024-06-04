@@ -357,7 +357,7 @@ h2 {
   gap: 0px 0px;
   grid-template-areas: ". . . .";
   width: 100%;
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 .pictures img {
@@ -371,7 +371,7 @@ footer {
   justify-content: center;
   background-color: #90d4c5;
   color: var(--DDCyan);
-  padding: 3rem 0;
+  padding: 3rem 0 5rem 0;
 }
 
 footer a {
